@@ -56,3 +56,8 @@ h3 {
   top: 345px;
   left: 340px;
 }
+
+.skills-container {
+  display: flex;
+  padding: 20px 30px;
+}
