@@ -9,6 +9,7 @@ body {
 h1 {
   margin: 0;
   font-family: "Sacramento", cursive;
+  font-size: 4.375em;
 }
 
 .profile-pic {
