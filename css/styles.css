@@ -11,6 +11,14 @@ h1 {
   font-family: "Sacramento", cursive;
 }
 
+.profile-pic {
+  width: 200px;
+}
+
+.skill-pic {
+  width: 300px;
+}
+
 h2 {
   font-family: "Montserrat", sans-serif;
 }
